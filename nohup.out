@@ -1,0 +1,67 @@
+Configuration file: /usr/soft/blog/ermu0420.github.io/_config.yml
+            Source: .
+       Destination: ./_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 6.556 seconds.
+ Auto-regeneration: enabled for '.'
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+[2019-03-07 22:51:43] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:51:43] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:51:43] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:51:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:51:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:51:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:51:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:51:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:15 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:51:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:51:45] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:51:45] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+[2019-03-07 22:52:24] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+Configuration file: /usr/soft/blog/ermu0420.github.io/_config.yml
+            Source: .
+       Destination: ./_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 7.054 seconds.
+ Auto-regeneration: enabled for '.'
+jekyll 3.8.5 | Error:  Cannot assign requested address - bind(2) for 118.24.21.49:4000
