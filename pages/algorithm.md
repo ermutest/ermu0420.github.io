@@ -1,12 +1,11 @@
 ---
 layout: page
-title: MongoDB 系列文章
-titlebar: MongoDB
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; MongoDB 系列教程
-menu: mongodb
+title: JAVA数据结构，算法系列文章
+titlebar: algorithm
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 数据结构，算法
+menu: algorithm
 css: ['blog-page.css']
-permalink: /mongodb
-keywords: MongoDB,MongoDB 集群,部署,搭建,MongoDB 教程
+permalink: /algorithm
 ---
 
 <div class="row">
@@ -15,7 +14,7 @@ keywords: MongoDB,MongoDB 集群,部署,搭建,MongoDB 教程
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='mongodb'  or post.keywords contains 'mongodb' %}
+                {% if post.category=='payment'  or post.keywords contains '支付' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

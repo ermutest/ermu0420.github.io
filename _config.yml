@@ -8,10 +8,10 @@
 # Site settings
 title: 菜逼程序员的博客
 subtitle: 梦想之路
-name: ermu0420 
+name: 二木
 email: xsl0420@126.com
-description: 本站是ermu的技术分享博客。记录架构师之路。
-keywords: ermu,ermu0420,Spring,Spring Boot,Spring Cloud,Redis,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+description: 本站是二木的技术分享博客。记录架构师之路。
+keywords: ermu,ermu0420,二木，Spring,Spring Boot,Spring Cloud,Redis,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.png 
 
@@ -57,16 +57,16 @@ paginate_path: 'page:num'
 menus:
 
   -
-    href: /money.html
+    href: /projectManage.html
     label: 项目管理
     target: _self
 
   -
-    href: /life.html
+    href: /softExam.html
     label: 软考之路
     target: _self
   -
-   href: /payment.html
+   href: /algorithm.html
    label: 算法
    target: _self
 
@@ -99,6 +99,11 @@ navs:
    target: _self
 
   -
+   href: /tool.html
+   label: Tool
+   target: _self
+
+  -
     href: /spring.html
     label: Spring
     target: _self
@@ -119,21 +124,16 @@ navs:
     label: Archives
     target: _self
 
-#  -
-#    href: /about.html
-#    label: About
-#    target: _self
+  -
+    href: /about.html
+    label: About
+    target: _self
 # labels. my blog key words
 labels:
 
   -
-    href: /fastdfs.html
-    label: Redis
-    target: _blank
-
-  -
-    href: /mongodb.html
-    label: MongoDB
+    href: /nosql.html
+    label: NoSql
     target: _blank
 
   -
@@ -142,13 +142,13 @@ labels:
     target: _blank
 
   -
-    href: /open-source.html
-    label: Code  
+    href: /functional.html
+    label: Functional
     target: _blank
 
   -
-    href: /it.html
-    label: It 
+    href: /reactive.html
+    label: Reactive
     target: _blank
 
   -
@@ -156,20 +156,12 @@ labels:
     label: Python  
     target: _blank
 
-
 # selected articles
 classes:
-
-  -
-    href: /life.html
-    name: 我的故事
-    describe: 生活就是故事，故事就是生活
-
   -
     href: /arch.html
     name: 架构师之路
     describe: 一个架构师的自我修养
-
   -
     href: /java.html
     name: Java 系列文章

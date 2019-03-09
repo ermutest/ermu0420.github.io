@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 就聊挣钱
-titlebar: money
-subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp;探索创业、黑客增长、营销策略、创意分享、商业案例等。>&nbsp;&nbsp;>&nbsp;&nbsp;<a href ="https://t.zsxq.com/iYZ3zrR" target="_blank" ><font color="#EB9439">点我直达</font></a>
-menu: money
+title: Functional Programming 系列文章
+titlebar: Functional
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 函数式 （Functional Programming ）系列教程
+menu: Functional
 css: ['blog-page.css']
-permalink: /money
+permalink: /functional
+keywords: Functional,Functional Programming,函数式，JAVA 函数式
 ---
 
 <div class="row">
@@ -14,7 +15,7 @@ permalink: /money
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='money' or post.keywords contains 'money' %}
+                {% if post.category=='mongodb'  or post.keywords contains 'mongodb' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
@@ -44,4 +45,3 @@ permalink: /money
 
     });
 </script>
-

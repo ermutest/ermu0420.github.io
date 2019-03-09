@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 你的生活和我一样吗
-titlebar: life
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 你的生活有什么故事？
-menu: life
+title: Reactive Programming 系列文章
+titlebar: Reactive
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 响应式 （Reactive Programming）系列文章
+menu: Reactive
 css: ['blog-page.css']
-permalink: /life
+permalink: /reactive
+keywords: Reactive,Reactive Programming,相应式，JAVA 相应式编程
 ---
 
 <div class="row">
@@ -14,7 +15,7 @@ permalink: /life
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='life' %}
+                {% if post.category=='it' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

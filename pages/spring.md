@@ -1,20 +1,20 @@
 ---
 layout: page
-title: 互联网代表着未来
-titlebar: it
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 互联网那些事
-menu: it
+title: Spring 系列文章
+titlebar: spring
+subtitle: 
+menu: spring
 css: ['blog-page.css']
-permalink: /it
+permalink: /spring
+keywords: spring
 ---
-
 <div class="row">
 
     <div class="col-md-12">
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='it' %}
+                {% if post.category=='life' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
