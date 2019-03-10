@@ -15,9 +15,9 @@ keywords: ermu,ermu0420,二木，Spring,Spring Boot,Spring Cloud,Redis,Jvm,Docke
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: ermu0420/ermu0420.github.io
-github_url: https://github.com/ermu0420
-url: http://ermu0420.club
+repository: ermutest/ermutest.github.io
+github_url: https://github.com/ermutest
+url: https://ermutest.github.io
 enforce_ssl: 
 
 ## Gem
